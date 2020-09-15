@@ -1,0 +1,17 @@
+{
+  "name": "csuuid",
+  "version": "1.0.0",
+  "description": "String GUID to base64 encoded C# GUID",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fredrik Eilertsen",
+  "license": "MIT",
+  "bin": {
+    "csuuid": "./index.js"
+  },
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
